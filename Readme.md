@@ -121,5 +121,5 @@ In `~/src` are located the different nodes according to the interest test: Dista
  ****
 ### Authors
 Universidad de Ibague, Grupo D+TEC, SI2C team: 
-[Sebastian Tilaguy](mailto:sebastian.tilaguy@unibague.edu.co)
+[Sebastian Tilaguy](mailto:sebastian.tilaguy@unibague.edu.co) and 
 [Harold F Murcia](www.haroldmurcia.com)
